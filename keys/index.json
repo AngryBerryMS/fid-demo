@@ -1,0 +1,12 @@
+{
+    "keys": [
+      {
+        "kty": "RSA",
+        "issuer": "https://angryberryms.github.io/fid-demo",
+        "kid": "key1",
+        "e": "AQAB",
+        "n": "xo9tgxWwSmUBhaJ5viDi0igExZtzm5qxl0mnOMTLWSJFlmLqcLt3KnwafRZ2bM6ORCzUQKuECLkfowMGiKT3woClUqteCIR0Wf+rV2GsWKIMTBCxXqXrYWMd0evZmPT4Ykap9myjMyQ1U/0TLLYIdLQSt76m1F5HVa2pvAO+atfe9U5fopOxIzyuyLaGXZHfPQVvVD+WnovWvsYESFChrxu98IyiKu1NZdp9Ai7HoYn02SrxCWchI9DFkfkss30c+GLP3FV89U8RusoxYg5rG1Gr71yP7AvTsXbgaQ0Sht1tHGOaLOTJ13sHn6jMqkOeHHS0dXyyLW7ymnEJc9rZgQ=="
+      }
+    ]
+  }
+  
